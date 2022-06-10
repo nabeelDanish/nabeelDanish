@@ -97,3 +97,23 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studios" **alt="Visual Studios" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+![Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeelDanish&show_icons=true&theme=highcontrast)
+
+---
+
+### :star: Some of my work:
+[![Language-Localization](https://github-readme-stats.vercel.app/api/pin/?username=nabeelDanish&repo=Language-Localization)](https://github.com/anuraghazra/github-readme-stats)
+[![Saavari for Drivers](https://github-readme-stats.vercel.app/api/pin/?username=nabeelDanish&repo=SavaariForDrivers)](https://github.com/anuraghazra/github-readme-stats)
+[![Urdu Q/A](https://github-readme-stats.vercel.app/api/pin/?username=nabeelDanish&repo=Urdu-Q-A-System)](https://github.com/anuraghazra/github-readme-stats)
+[![Mukalma](https://github-readme-stats.vercel.app/api/pin/?username=farjadilyas&repo=MUKALMA)](https://github.com/anuraghazra/github-readme-stats)
+[![Mukalma](https://github-readme-stats.vercel.app/api/pin/?username=farjadilyas&repo=airbnb-clone)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: I can write code in:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelDanish&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

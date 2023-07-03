@@ -35,7 +35,11 @@ Here are some ideas to get you started:
 ### :man_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-- :telescope: I’m a Student at the National University of Computer and Emerging Sciences.
+- :shopping_cart: I am a Software Development Engineer at Noon UAE
+
+- :cow: I worked as a Polyglot Software Engineer at Cowlar Design Studio, Islamabad
+
+- :telescope: I was a student at the National University of Computer and Emerging Sciences, with a CGPA of 3.92
 
 - :sunny: I participated in the prestigious Google Summer of Codes Program 2021 @ ENIGMA Game Engine :video_game:
 
